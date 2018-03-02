@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":react-native-i18n"><source path="/home/john/Android/uni-duell/node_modules/react-native-i18n/android/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/john/Android/uni-duell/android/app/src/main/assets"/><source path="/home/john/Android/uni-duell/android/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/john/Android/uni-duell/android/app/src/debug/assets"/></dataSet></merger>
